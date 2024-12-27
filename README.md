@@ -15,7 +15,8 @@ ArtLoft is a web platform connecting artists, art enthusiasts, and local busines
 1. Clone repository
 2. Install dependencies: `npm install`
 3. Set up environment variables
-4. Run development server: `npm run dev`
+4. Start the server with `npm start`.
+5. Run development server: `npm run dev`
 
 ## Contributing
 - Follow coding standards
